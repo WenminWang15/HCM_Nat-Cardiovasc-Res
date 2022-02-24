@@ -7,3 +7,6 @@ This repository includes custom codes to predict the survival outcomes of HCM pa
 - scikit-learn
 - scikit-survival
 - eli5
+## Citation
+
+Thanks for your interest:)
