@@ -8,6 +8,10 @@ This repository includes custom codes to predict the survival outcomes of HCM pa
 - scikit-survival
 - eli5
 
+## How to use
+
+Put data in the `data` folder. And by following steps in `run.ipynb`, you can get results in outputs, and generated figures in the `figures` folder.
+
 ## Citation
 
 Thanks for your interest:)
