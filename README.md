@@ -1,4 +1,4 @@
-# Main
+# HCM_Nat-Cardiovasc-Res
 This project consists of three parts: the code for pictures、Random forest model for HCM diagnosis and Predict the survival outcomes of HCM patient using RSF method.
 
 ## the code for pictures
