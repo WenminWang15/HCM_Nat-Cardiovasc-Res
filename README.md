@@ -13,7 +13,9 @@ This part includes custom codes to predict the survival outcomes of HCM patients
 ## Citation
 
 More details were shown in the method section of the manuscript.
+
 The data is available in the source data section of the manuscript.
+
 Finally: We'd love to hear from you. Please let us know if you have any comments or suggestions, or if you have questions about the code or the procedure. 
 
 Thanks for your interest:)
